@@ -1,4 +1,5 @@
 # EPL Dataset Analysis
+
 Premier League Data Analysis and Visualization
 
 This project focuses on multiple CSV files containing season-wise English Premier League data, merging into a single consolidated dataset. Once merged, the data is analyzed for insights using a Jupyter Notebook, with a focus on data preparation, exploration, and future predictive modeling.
@@ -18,7 +19,6 @@ The dataset used in this project is sourced from Kaggle and contains season-by-s
 - **File Reading**: The project reads multiple `.csv` files, each representing a different season, and merges them into a single dataset.
 - **Data Cleaning**: Basic data cleaning steps are applied, such as handling missing values and converting categorical features as needed for analysis.
 
-
 ## Exploratory Data Analysis
 
 The following analyses are performed on the merged dataset:
@@ -35,15 +35,20 @@ To run this project, you need to have the following Python packages installed:
 ```bash
 pip install pandas
 ```
+
 ## Usage
+
 -Download the dataset from Kaggle and place the season-wise CSV files in a folder named data.
 -Run the merge_csv_files.py script to merge all season files into one consolidated CSV.
 -Open EPL Analysis.ipynb to perform exploratory data analysis on the merged dataset.
+
 ## License
+
 -This project is licensed under the MIT License.
 
 ## Contact
+
 For questions or contributions:
 
-Email: nahianmahmood12@gmail.com
-GitHub: NAHIAN-KAZI
+Email: radynoor030@gmail.com
+GitHub: RADY NOOR
